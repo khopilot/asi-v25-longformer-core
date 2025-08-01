@@ -1,0 +1,16 @@
+LICENSE
+MANIFEST.in
+README.md
+model_card.md
+requirements.txt
+setup.py
+asi_v25/__init__.py
+asi_v25/asi_v25_attention.py
+asi_v25/asi_v25_config.py
+asi_v25_longformer.egg-info/PKG-INFO
+asi_v25_longformer.egg-info/SOURCES.txt
+asi_v25_longformer.egg-info/dependency_links.txt
+asi_v25_longformer.egg-info/requires.txt
+asi_v25_longformer.egg-info/top_level.txt
+examples/quick_demo.py
+examples/reproduce_extreme_results.py
