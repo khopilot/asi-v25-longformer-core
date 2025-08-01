@@ -185,7 +185,7 @@ python examples/quick_demo.py
 
 ```bash
 # Clone repository
-git clone https://huggingface.co/asi-research/asi-v25-longformer-core
+git clone https://github.com/khopilot/asi-v25-longformer-core.git
 cd asi-v25-longformer-core
 
 # Install in development mode
@@ -267,7 +267,7 @@ ASI V2.5 maintains **linear memory scaling** O(L) vs quadratic O(L²) for standa
   title={ASI V2.5: Ultra-Professional Linear Attention with 2.44x Speedup},
   author={ASI Research Team},
   year={2025},
-  url={https://huggingface.co/asi-research/asi-v25-longformer-core},
+  url={https://huggingface.co/khopilot/asi-v25-longformer-core},
   note={91.7% coverage, Longformer-4096 validated, MPS optimized}
 }
 ```
@@ -278,10 +278,10 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ## Links
 
-- **🔬 Demo Space**: [ASI V2.5 Live Demo](https://huggingface.co/spaces/asi-research/asi-v25-live-demo)
-- **📚 Documentation**: [GitHub Repository](https://github.com/asi-research/asi-v25-longformer-core)
-- **💼 Enterprise**: [ASI Research](https://asi-research.com/enterprise)
-- **📧 Contact**: [contact@asi-research.com](mailto:contact@asi-research.com)
+- **🤗 HuggingFace Hub**: [khopilot/asi-v25-longformer-core](https://huggingface.co/khopilot/asi-v25-longformer-core)
+- **🐙 Source Code**: [GitHub Repository](https://github.com/khopilot/asi-v25-longformer-core)
+- **📦 Installation**: `pip install git+https://github.com/khopilot/asi-v25-longformer-core.git`
+- **📋 Examples**: Check `examples/` directory for reproduction scripts
 
 ---
 

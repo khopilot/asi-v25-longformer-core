@@ -258,10 +258,10 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ## 🔗 Links
 
-- **Demo Space**: [ASI V2.5 Live Demo](https://huggingface.co/spaces/asi-research/asi-v25-live-demo)
-- **Documentation**: [HuggingFace Hub](https://huggingface.co/asi-research/asi-v25-longformer-core)
-- **Source Code**: [GitHub Repository](https://github.com/asi-research/asi-v25-longformer-core)
-- **Enterprise**: [ASI Research](https://asi-research.com/enterprise)
+- **🤗 HuggingFace Hub**: [khopilot/asi-v25-longformer-core](https://huggingface.co/khopilot/asi-v25-longformer-core)
+- **🐙 Source Code**: [GitHub Repository](https://github.com/khopilot/asi-v25-longformer-core)
+- **📦 PyPI Package**: `pip install git+https://github.com/khopilot/asi-v25-longformer-core.git`
+- **🚀 Quick Start**: See examples in `examples/` directory
 
 ---
 
